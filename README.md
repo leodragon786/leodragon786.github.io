@@ -32,4 +32,32 @@
           </b>
      </body>
 </html>
-      </div>
+
+     
+<div>
+  <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="styles.css" rel="stylesheet" />
+  </head>
+  <body>
+    <main>
+      <header>
+        <img src="https://cdn.mos.cms.futurecdn.net/eE2VoweNVuqHyAaE59LmV6.jpg" alt="dinosaur survival adventure" />
+        <div>
+        <h1>fishing</h1>
+      </header>
+      <section id="night-1">
+        <h2>image is not the actual game!!!</h2>
+        <h3>
+          <a> 
+         "https://scratch.mit.edu/projects/1243822121/"
+          </a>
+        </h3>
+        <p>
+          <b>
+            in fishing, ou go on a relaxing journey fishing, improoving your boat, and buying baits.
+          </b>
+     </body>
+</html>
+ 
